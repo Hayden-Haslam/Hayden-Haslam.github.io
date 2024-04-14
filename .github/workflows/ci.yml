@@ -4,6 +4,7 @@ on:
     branches:
       - main
 permissions:
+  deployments: write
   contents: write
 jobs:
   deploy:
