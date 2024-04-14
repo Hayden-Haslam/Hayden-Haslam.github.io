@@ -2,7 +2,7 @@
 
 ## New Post
 
-I am currently building a layout in MkDocs to host may website.
+I am currently building a layout in MkDocs to host my website.
 More content coming soon.
 
 ## Project layout
