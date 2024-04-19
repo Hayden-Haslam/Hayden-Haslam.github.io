@@ -1,12 +1,11 @@
 # Welcome to Hayden-Haslam.github.io
 
-## New Post
+## Latest Project
 
-I am currently building a layout in MkDocs to host my website.
+I am starting to explore Microsoft MDT for image building and configuration. I
+am in the process of building my lab to support this project. I will update this
+page when I have more information to share.
+
+Test: [New Page](testpage.md)
+
 More content coming soon.
-
-## Project layout
-
-``` powershell
-I primarily work with powershell
-```
