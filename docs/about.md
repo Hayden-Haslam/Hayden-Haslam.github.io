@@ -18,6 +18,6 @@ Hopefully this could benefit someone down the road someday, although it will
 most likely be myself when I forget how I did something in the past.
 
 Please feel free to reach out to me about anything you see here. Feedback,
-Criticism, Encouragement, etc. All is Welcome :)
+Criticism, Encouragement, etc. All is Welcome :smile:
 
-[haslam.hayden@gmail.com](mailto:haslam.hayden@gmail.com)
+Email me at: [haslam.hayden@gmail.com](mailto:haslam.hayden@gmail.com)
