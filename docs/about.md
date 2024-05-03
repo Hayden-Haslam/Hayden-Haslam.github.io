@@ -7,7 +7,7 @@ I am a Retail System Engineer for Maverik Inc.
 I have primarily been tasked with building and managing various aspects of my
 companies retail Windows images.
 
-This personal website will be use to help me manage and organize most of the
+This personal website will be used to help me manage and organize most of the
 things I have learned along the way.
 
 I started this job with very little PowerShell experience, but immediately
