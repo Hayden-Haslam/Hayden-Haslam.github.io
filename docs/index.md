@@ -6,6 +6,6 @@ I am starting to explore Microsoft MDT for image building and configuration. I
 am in the process of building my lab to support this project. I will update this
 page when I have more information to share.
 
-Test: [New Page](testpage.md)
+[Current Project](05032024.md)
 
 More content coming soon.
