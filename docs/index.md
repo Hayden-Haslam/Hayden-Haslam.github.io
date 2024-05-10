@@ -2,7 +2,7 @@
 
 ## Latest Project
 
-I am starting to explore Microsoft MDT for image building and configuration. I
+I am starting to explore PowerShell DSC for image building and configuration. I
 am in the process of building my lab to support this project. I will update this
 page when I have more information to share.
 
