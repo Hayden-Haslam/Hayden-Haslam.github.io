@@ -6,8 +6,5 @@ In this project, I am experimenting with the use of a csv file to hold configura
 
 [PowerShell + CSV - Lets go!](pscsv.md)
 
-## Previous Projects
-
-[Building a Custom Image](newcustomimage.md)
-
-More content coming soon.
+**Previous Projects**
+See [Posts](posts.md) for older content
