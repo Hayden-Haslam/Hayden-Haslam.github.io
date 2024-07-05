@@ -1,5 +1,7 @@
 # hayden-haslam.github.io
 
-I am primarily using this page to document my current projects I am working on.
+I am primarily using this page to document the current projects I am working on.
+
+Check out my page: [hayden.haslam.github.io](hayden.haslam.github.io)
 
 :smile:
