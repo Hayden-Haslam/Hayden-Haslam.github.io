@@ -2,6 +2,6 @@
 
 I am primarily using this page to document the current projects I am working on.
 
-Check out my page: [hayden.haslam.github.io](hayden.haslam.github.io)
+Check out my page: [haydenhaslam.com](www.haydenhaslam.com)
 
 :smile:
